@@ -1,1 +1,15 @@
+{
+  "registryVersion": 1,
+  "apps": [
+    {
+      "id": "com.rally.clock",
+      "name": "Clock",
+      "version": "1.0.0",
+      "tarball": "https://raw.githubusercontent.com/kmce2019/rallyboard-registry/main/dist/com.rally.clock-1.0.0.tar.gz",
+      "sha256": "7ba41441bf840f2a77c1843a44e93ff453da29c97ceb47ccf6edd7db48f162bb",
+      "entry": "app:App",
+      "size_kb": 20
+    }
+  ]
+}
 
